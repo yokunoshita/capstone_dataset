@@ -1,0 +1,6 @@
+Transport,Carbon kg CO2eq/km
+Walk,0.03
+Bike,0.05
+Motorcycle,0.11
+Private Car,0.25
+Public Transport,0.4
